@@ -240,3 +240,20 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Vidzy/Vidzy.sln
+/Vidzy/Vidzy/Vidzy.tt
+/Vidzy/Vidzy/Vidzy.edmx.diagram
+/Vidzy/Vidzy/Vidzy.edmx
+/Vidzy/Vidzy/Vidzy.Designer.cs
+/Vidzy/Vidzy/Vidzy.csproj
+/Vidzy/Vidzy/Vidzy.cs
+/Vidzy/Vidzy/Vidzy.Context.tt
+/Vidzy/Vidzy/Vidzy.Context.cs
+/Vidzy/Vidzy/Video.cs
+/Vidzy/Vidzy/Properties/AssemblyInfo.cs
+/Vidzy/Vidzy/Program.cs
+/Vidzy/Vidzy/packages.config
+/Vidzy/Vidzy/Genre.cs
+/Vidzy/Vidzy/Classification.cs
+/Vidzy/Vidzy/App.config
+/Vidzy/Database Script.sql
